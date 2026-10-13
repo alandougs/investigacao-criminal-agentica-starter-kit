@@ -554,6 +554,11 @@
       "bytes": 330
     },
     {
+      "caminho": "modelos-de-caso/produtos/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
       "caminho": "modelos-de-caso/trabalho/boletim-ocorrencia.md",
       "sha256": "3ac0070032bdaf8a729034430a0cc06f6ea72212c58600727e77574177de9b62",
       "bytes": 3190
