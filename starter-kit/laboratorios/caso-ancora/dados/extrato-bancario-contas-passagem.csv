@@ -1,0 +1,5 @@
+data,hora,tipo_lancamento,descricao,valor,conta_origem,conta_destino,banco_origem,banco_destino
+2026-08-05,17:05:12,PIX RECEBIDO,PIX recebido - sinal veiculo,3200.00,CONTA-VITIMA-0001,CONTA-PASSAGEM-0001,Banco Trilha S.A.,Banco Trilha S.A.
+2026-08-05,17:11:40,PIX ENVIADO,Transferencia interna,-3000.00,CONTA-PASSAGEM-0001,CONTA-PASSAGEM-0002,Banco Trilha S.A.,Banco Trilha S.A.
+2026-08-06,10:47:33,PIX RECEBIDO,PIX recebido - taxa transferencia,1800.00,CONTA-VITIMA-0001,CONTA-PASSAGEM-0002,Banco Trilha S.A.,Banco Trilha S.A.
+2026-08-06,11:00:02,PIX ENVIADO,Transferencia entre bancos,-4500.00,CONTA-PASSAGEM-0002,CONTA-PASSAGEM-0003,Banco Trilha S.A.,Banco Horizonte Digital

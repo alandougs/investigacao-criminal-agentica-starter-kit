@@ -1,0 +1,41 @@
+{
+  "execucao": "com-invencao",
+  "eventos": [
+    {
+      "id": "E1",
+      "data": "2026-08-01",
+      "evento": "Anúncio original publicado",
+      "fonte": {
+        "arquivo": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+        "linha": 3
+      }
+    },
+    {
+      "id": "E2",
+      "data": "2026-08-03",
+      "evento": "Anúncio clonado publicado",
+      "fonte": {
+        "arquivo": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+        "linha": 5
+      }
+    },
+    {
+      "id": "E3",
+      "data": "2026-08-05",
+      "evento": "Visita ao veículo realizada",
+      "fonte": {
+        "arquivo": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+        "linha": 7
+      }
+    },
+    {
+      "id": "X1",
+      "data": "2026-08-04",
+      "evento": "Pagamento em espécie confirmado",
+      "fonte": {
+        "arquivo": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+        "linha": 5
+      }
+    }
+  ]
+}

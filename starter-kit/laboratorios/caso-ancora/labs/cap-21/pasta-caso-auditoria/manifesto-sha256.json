@@ -1,0 +1,12 @@
+{
+  "formato": "manifesto-sha256-caso",
+  "versao": 1,
+  "escopo": "originais",
+  "arquivos": [
+    {
+      "caminho": "originais/bo-sintetico.txt",
+      "sha256": "4f8334accbce35e1fe88b0b19b319c4e5efa85f58bec928d1917620ab7908939",
+      "bytes": 52
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+data_resposta,oficio_referencia,conta,produto,titular_cadastral_sintetico,documento_invalido_por_construcao,data_abertura,data_hora_evento,evento,valor,contraparte,local_terminal_sintetico
+2026-09-18,OFICIO-019-2026-VRC,CONTA-PASSAGEM-0003,Conta digital,Rosana Pires Teixeira,417.075.364-02,2026-07-27,2026-08-06 11:00:02,PIX recebido,4500.00,CONTA-PASSAGEM-0002,
+2026-09-18,OFICIO-019-2026-VRC,CONTA-PASSAGEM-0003,Conta digital,Rosana Pires Teixeira,417.075.364-02,2026-07-27,2026-08-06 15:40:00,Saque em espécie,-4500.00,,Terminal HDL-SLO-03 — Santa Luzia do Oeste (fictício)

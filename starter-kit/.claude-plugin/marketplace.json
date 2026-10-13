@@ -1,0 +1,10 @@
+{
+  "name": "icg-didatico-local",
+  "metadata": {"description": "Plugin didático local para exercícios com dados sintéticos."},
+  "owner": {"name": "Projeto Investigação Criminal Agêntica"},
+  "plugins": [{
+    "name": "investigacao-criminal-agentica",
+    "source": "./plugin/investigacao-criminal-agentica",
+    "description": "Procedimentos com dados sintéticos e revisão humana."
+  }]
+}

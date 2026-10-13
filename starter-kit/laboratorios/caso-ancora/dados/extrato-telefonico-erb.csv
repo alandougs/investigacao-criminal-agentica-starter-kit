@@ -1,0 +1,8 @@
+data_hora,tipo_evento,linha_origem,linha_destino,identificador_dispositivo_sintetico,erb_id,erb_nome,municipio_ficticio,latitude_aproximada,longitude_aproximada,duracao_segundos,observacao
+2026-07-30 09:18:00,ATIVACAO_SIM,+55-14-90000-0042,,IMEI-SINTETICO-0042,ERB-VRC-01,Torre Centro,Vale do Rio Claro,-22.0000,-47.0000,,
+2026-08-03 18:40:00,DADOS,+55-14-90000-0042,+55-14-90000-0002,IMEI-SINTETICO-0042,ERB-VRC-02,Torre Bairro Industrial,Vale do Rio Claro,-22.0100,-47.0120,,
+2026-08-04 09:40:12,DADOS,+55-14-90000-0042,+55-14-90000-0001,IMEI-SINTETICO-0042,ERB-VRC-02,Torre Bairro Industrial,Vale do Rio Claro,-22.0100,-47.0120,,
+2026-08-05 16:02:18,DADOS,+55-14-90000-0042,+55-14-90000-0001,IMEI-SINTETICO-0042,ERB-VRC-02,Torre Bairro Industrial,Vale do Rio Claro,-22.0100,-47.0120,,
+2026-08-06 10:15:04,DADOS,+55-14-90000-0042,+55-14-90000-0001,IMEI-SINTETICO-0042,ERB-VRC-03,Torre Rodovia Fictícia,Vale do Rio Claro,-22.0240,-47.0260,,
+2026-08-06 17:30:00,DADOS,+55-14-90000-0042,+55-14-90000-0002,IMEI-SINTETICO-0042,ERB-VRC-03,Torre Rodovia Fictícia,Vale do Rio Claro,-22.0240,-47.0260,,
+2026-08-07 08:55:45,DADOS,+55-14-90000-0042,,IMEI-SINTETICO-0042,ERB-VRC-04,Torre Terminal,Vale do Rio Claro,-22.0060,-46.9910,,

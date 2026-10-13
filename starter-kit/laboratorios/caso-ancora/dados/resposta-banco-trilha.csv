@@ -1,0 +1,6 @@
+conta,produto,titular_cadastral_sintetico,documento_invalido_por_construcao,data_abertura,evento,valor,contraparte,observacao
+CONTA-PASSAGEM-0001,Conta de pagamento,Cláudio Reis Moura,158.813.998-00,2026-07-28,PIX recebido,3200.00,CONTA-VITIMA-0001,recebimento de sinal
+CONTA-PASSAGEM-0001,Conta de pagamento,Cláudio Reis Moura,158.813.998-00,2026-07-28,PIX enviado,-3000.00,CONTA-PASSAGEM-0002,transferência interna
+CONTA-PASSAGEM-0002,Conta de pagamento,Tainá Souza Brito,987.973.091-78,2026-07-29,PIX recebido,3000.00,CONTA-PASSAGEM-0001,transferência interna
+CONTA-PASSAGEM-0002,Conta de pagamento,Tainá Souza Brito,987.973.091-78,2026-07-29,PIX recebido,1800.00,CONTA-VITIMA-0001,recebimento de taxa
+CONTA-PASSAGEM-0002,Conta de pagamento,Tainá Souza Brito,987.973.091-78,2026-07-29,PIX enviado,-4500.00,CONTA-PASSAGEM-0003,transferência interbancária

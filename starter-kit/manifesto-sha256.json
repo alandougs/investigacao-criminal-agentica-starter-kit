@@ -1,0 +1,692 @@
+{
+  "formato": "manifesto-sha256-caso",
+  "versao": 1,
+  "escopo": ".",
+  "arquivos": [
+    {
+      "caminho": ".agents/plugins/marketplace.json",
+      "sha256": "a388bd026c4d5bc4dfa132873823aeca7cc272ea7a784447a9566be2ed95ef28",
+      "bytes": 297
+    },
+    {
+      "caminho": ".agents/skills/analisar-documentos/SKILL.md",
+      "sha256": "b35d296e0c63f427d6e5f7b7127782bafc59d541381569660d3aa6f75ff4b7a4",
+      "bytes": 653
+    },
+    {
+      "caminho": ".agents/skills/analisar-documentos/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/arquivar-exercicio/SKILL.md",
+      "sha256": "da81b90f600a430d9649b2de6ba4ca4e812cc497f350dc334b8aada7040325f9",
+      "bytes": 638
+    },
+    {
+      "caminho": ".agents/skills/arquivar-exercicio/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/coletar-insumos-locais/SKILL.md",
+      "sha256": "3588b553ec9ca5d8392f3638d4df26916d6e460c3282f131dafa7ca2e88eddc2",
+      "bytes": 635
+    },
+    {
+      "caminho": ".agents/skills/coletar-insumos-locais/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/planejar-missao/SKILL.md",
+      "sha256": "31ea42c5030ee7671e7badbb6f654bc274065e4ac5e184b077e1b4dcdcf0b889",
+      "bytes": 630
+    },
+    {
+      "caminho": ".agents/skills/planejar-missao/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/produzir-nota/SKILL.md",
+      "sha256": "7543c74444c74319c463379bdff23a0bbc93c70b2e4b042f188a6dd94d666d7a",
+      "bytes": 673
+    },
+    {
+      "caminho": ".agents/skills/produzir-nota/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/receber-documentos/SKILL.md",
+      "sha256": "8e8516f547464c87d20162d67d420307916a9335b1b1426d340f9eeec7fa7215",
+      "bytes": 603
+    },
+    {
+      "caminho": ".agents/skills/receber-documentos/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/tratar-dados-sinteticos/SKILL.md",
+      "sha256": "e1b02cd9fc2f08528511e218c61aedcb73aa72550bb9dae8741a993b80eed064",
+      "bytes": 623
+    },
+    {
+      "caminho": ".agents/skills/tratar-dados-sinteticos/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".agents/skills/validar-achados/SKILL.md",
+      "sha256": "11769faffbba7ec10fff9c68e627af78cbaa836572e4b7fab85a48cee67890ea",
+      "bytes": 664
+    },
+    {
+      "caminho": ".agents/skills/validar-achados/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": ".claude-plugin/marketplace.json",
+      "sha256": "185c8039b7ecd3bd9525eded1516c24249e72358cb8da03a0753a8d7638135c7",
+      "bytes": 399
+    },
+    {
+      "caminho": "AGENTS.md",
+      "sha256": "a1799b2ca27203e18d37854933c1d53aa7cbcdc7b79c9c3343a6fbc9e8242412",
+      "bytes": 1013
+    },
+    {
+      "caminho": "CLAUDE.md",
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "bytes": 11
+    },
+    {
+      "caminho": "START-HERE.md",
+      "sha256": "5c351bcf169d51a08eccde6c6b387096ab3f2ee910c3e485115571a4e0f7b256",
+      "bytes": 6754
+    },
+    {
+      "caminho": "guias/por-ferramenta.md",
+      "sha256": "c6295386eff7cea7779319c305b64fe72073a6398d5ac8556bef8c09477b0179",
+      "bytes": 10563
+    },
+    {
+      "caminho": "instrucoes/nota-de-triagem.md",
+      "sha256": "d65cc1a1386df2e32944dfdcfc36a03fb519722feaaf63781125bb8ff3477245",
+      "bytes": 2705
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/LEIA-ME.md",
+      "sha256": "238f696a944bf39fc2af030a06afbcb0dbeceb6596960fc04afc95ac2e3799d4",
+      "bytes": 2217
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/audio-reserva-sintetico.wav",
+      "sha256": "bbf3575b033a6381cc2310aee3d179aea7ced396700ff274ce7cd4a732eb2bef",
+      "bytes": 862616
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/boletim-ocorrencia.md",
+      "sha256": "3ac0070032bdaf8a729034430a0cc06f6ea72212c58600727e77574177de9b62",
+      "bytes": 3190
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/comprovante-reserva-sintetico.png",
+      "sha256": "be6bcadf331d84f72eb7d596808904522d35fe6963a1a82c37619e2c5ff35d32",
+      "bytes": 69588
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/documento-teste-prompt-injection.pdf",
+      "sha256": "ecbe6d9fb715fc047da3708c1bc495b50bc25d28a12b1b569eeddc0b9bd269d1",
+      "bytes": 2756
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima.html",
+      "sha256": "2ca5d4bac8ebeebe345f6ec0681f5e41d5757659e6fb3251a89c5f035bbdb20a",
+      "bytes": 7844
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima/LEIA-ME.md",
+      "sha256": "a1a0d262e8e8216d844ee2b63881d9c4152957ce9bc73155f949b56880254261",
+      "bytes": 991
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima/chamadas.csv",
+      "sha256": "0b1b1fb1a0535cbd9213d7d8cabb142a25cbe97315ba2f8277a32065b280390f",
+      "bytes": 475
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima/contatos.csv",
+      "sha256": "5751aa8a054ae2da7da108c2b48ec42a14fdc32dc6163730a28c3115c96b0a9b",
+      "bytes": 353
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima/mensagens.csv",
+      "sha256": "31626f3914e34e446c924a22b6858b9453322e97b7975daef4386a30690f057a",
+      "bytes": 21495
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima/midias.csv",
+      "sha256": "d6a0f7111f58e1a8c3d0fb335c91dfe98aede01a178629fd1e0dfc09055c8bc6",
+      "bytes": 329
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extracao-celular-vitima/urls.csv",
+      "sha256": "4dc22a93cd6a41e0f4e7c2320b71d4648844e60a22569fb8714933bfea94df45",
+      "bytes": 705
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extrato-bancario-contas-passagem.csv",
+      "sha256": "b5e1ff656997e52041d69466c01d05e3d4c8b3efc2601d235edf720d1dbc2fc2",
+      "bytes": 678
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extrato-bancario-vitima.csv",
+      "sha256": "ba9c1504f982e83bfa73d0a6721412e39651c981d13ce0491e556a10a18a7392",
+      "bytes": 330
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/extrato-telefonico-erb.csv",
+      "sha256": "9da3f1ae1fc63723ed8806e387b8b0b248efd9e1c730089a0eae0d5d90569b62",
+      "bytes": 1227
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/metadados-midias-sinteticas.json",
+      "sha256": "5b9cc1003d2f8f88b61af724ad74d3d5dcf9c83844914bcd79be4cde3e7ce7ad",
+      "bytes": 2562
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/midia-manipulada-sintetica.png",
+      "sha256": "0512036f903c6042e9638c153a6d88c406d8e03666fd22a86d1a0eafc4646c25",
+      "bytes": 69701
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/midia-original-sintetica.png",
+      "sha256": "be6bcadf331d84f72eb7d596808904522d35fe6963a1a82c37619e2c5ff35d32",
+      "bytes": 69588
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/oficio-banco-horizonte-019-2026.pdf",
+      "sha256": "6466b4115145e34c2c06f938ede9c140ed92df3ee1b6df8b3bb35292636d60b1",
+      "bytes": 2346
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/oficio-banco-trilha.pdf",
+      "sha256": "0aa84d9551e943f1a2a6f9e36e62cf6135c990ad555eddf41f1bf86a7406a19c",
+      "bytes": 2240
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/oficio-conecta-movel.pdf",
+      "sha256": "a6a40b1bbd77f42c3339c39fb0a31e98463f16950c454d8f8b51927679a6c584",
+      "bytes": 2201
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/perfil-osint-ricardo-autos-premium.md",
+      "sha256": "f57e8c820a5b2c9798a42772734dd1b16fce0eebb6b2605ad717fef9bc98fbf3",
+      "bytes": 3474
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/resposta-banco-horizonte-digital.csv",
+      "sha256": "23846e53ee3eefae161dca5266a7052a2b0901f1a423c5c19332ea65d6f66074",
+      "bytes": 582
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/resposta-banco-trilha.csv",
+      "sha256": "bebbad41f8ff2e4def4041fe3de68e8e470bfcfeee7c4c9d2ba5e720ae6d5ddc",
+      "bytes": 866
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/resposta-conecta-movel.csv",
+      "sha256": "f18521433945e87ab29b241415b5449fb1beb536967c1cfc4ca21146dcf4d5d9",
+      "bytes": 2094
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/roteiro-audio-reserva-sintetico.txt",
+      "sha256": "2dffa1ee227cda63891a9f027db6151880149c19ba1d9565f3a24a72d8374e62",
+      "bytes": 338
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/termos-declaracao.docx",
+      "sha256": "55da50310b3165af10e6e7570db38e38798275824132f26faa4aabb5a2741e36",
+      "bytes": 36459
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/dados/termos-declaracao.md",
+      "sha256": "e2ca884a609e8f4cddfc11accc6658f992e5a6035e2b2bc86d977cd85ae554b5",
+      "bytes": 4708
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-01-registro-sessao.md",
+      "sha256": "e962d86dc8829412237fa7ebc05a1345835978c118cf57a5d8c3200f6fe24a4d",
+      "bytes": 4886
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-02-prompt-original.md",
+      "sha256": "06551803bdea78c04849663661b703d64dd597c8df1b9047e607ce2f9a539c29",
+      "bytes": 1233
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-04-classificar-dados.md",
+      "sha256": "cc26828d58f60b582ee2f332e38efb724cb8eb6965e4e30a809c92917e18ad57",
+      "bytes": 1654
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-07/checklist-risco-plugin.md",
+      "sha256": "af514e10c73e12f0bbc937b0210e6ed24a6683b160376c2f9bd77ed26c77712a",
+      "bytes": 1811
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-07/plugin-ficticio-de-terceiros.md",
+      "sha256": "ddf9e72fcf2378d05ee860f4832580aac5e35108d9567b5b248403b3eda47c63",
+      "bytes": 2058
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-08/bloquear-originais.py",
+      "sha256": "a8b43b67362b80dab77cdf0646155e50458d319ff19f19020c3789eba6e42b26",
+      "bytes": 2286
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-08/conferente.md",
+      "sha256": "b3d09716cc6d6a1d29419aa8ee5553d9356052e575c9a1b79509493e51275090",
+      "bytes": 1824
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-08/settings-exemplo.json",
+      "sha256": "dc4f1287a54ec3b6ed3d057a22ac981a304216cd3fad9be9d42eb9b86a698b8f",
+      "bytes": 333
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-08/tentativa-originais.json",
+      "sha256": "7e7a75c8eefd8db9059744872f334f03c3c1e5174a37fa969621d0d15f357561",
+      "bytes": 104
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-08/tentativa-trabalho.json",
+      "sha256": "93a27f5eaf468cbf88c58430d89014adac2349b060d723e12ae12d692e63a691",
+      "bytes": 91
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-08/triagem.py",
+      "sha256": "81074a5f5f077318c624f01936d4d38050c87ea109b8a677ffa5b1945b8972c5",
+      "bytes": 3944
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-09/prazos.py",
+      "sha256": "3f6ef5dc5787a49f9b9d67a02aaa864aeba8fae7a92d8aa8a3b4a0439184155e",
+      "bytes": 5040
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-09/procedimentos.csv",
+      "sha256": "f229bcb08496e142b4e5dcea20166ee09880c627d7210c1cc8b8c9ec33ba9c13",
+      "bytes": 271
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-09/registro-expedicao.csv",
+      "sha256": "2fedc713ad994f1fc265e2a2da9f5242c52dca7bb33a8405aa3b29d9a44991f8",
+      "bytes": 844
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-10/entidades.py",
+      "sha256": "be05637d116aede65836c869aa40ba87e91b91b455c472c833c9ef7d0663b20a",
+      "bytes": 5468
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-11/fluxo.py",
+      "sha256": "4344d699dc5764b1e9f36c7d06aa73965b10c76854d56fa6d7cb08eefecaa505",
+      "bytes": 9747
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-12-plano-pesquisa-osint.md",
+      "sha256": "4aaa58a6bc12c1ec755c1ee379df95ff1ec8912b0f9502ae2f7cc96c4a329f61",
+      "bytes": 2210
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-16/entidades.csv",
+      "sha256": "c19911cf57cd67fd1d6a68975ec1e84f4ed065d5e74c81def65a0b9bf10fc0b6",
+      "bytes": 1707
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-16/vinculos.csv",
+      "sha256": "f8c6fd3aea30e5d55ee411bc9464dc29d4af9251e8e22c3cb0380ed77dcf6f3a",
+      "bytes": 2506
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-17-caderno-base.csv",
+      "sha256": "0cdcbb107945fa1a9dad6f69b55b7f45db8f4f812649573178bff4f96704ba6d",
+      "bytes": 3790
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-17-rascunho-com-falhas.md",
+      "sha256": "a02d9708a079f85b23340f2103b3a08d949185a7c45ec43f7451bf0a7f96505a",
+      "bytes": 1440
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-18/REQUISITOS.md",
+      "sha256": "4f27a179385604cb2d150053e579cfbd4f4d9a5e14b331fb19a8bc5e7293686d",
+      "bytes": 7051
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-18/analisador_erb.py",
+      "sha256": "4b9d56683381448f0157eb8065a487b4b42d4dad3c1d7c64deb8acf57c9c9727",
+      "bytes": 9189
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-18/saida-esperada.md",
+      "sha256": "e1e652f9af6cff4d2ecab7e01558749ac147a94cbf0213d8647d7e247cc53047",
+      "bytes": 2593
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-19/instrucao-admissibilidade.md",
+      "sha256": "5d74709877ea4e629ee9e8ca1d98259771e77f7ff5af999a04c15d58552a6059",
+      "bytes": 2309
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-19/relatorio-referencia.md",
+      "sha256": "38e3fb03b44b1ea0d5f2203ab9efa346d5022869d9ee6580cc480f67810ee6d8",
+      "bytes": 1993
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/auditar_custodia.py",
+      "sha256": "0c16761a8ba0f8b7fb7e107c73a785de11099b91a17653556158fe9128afb823",
+      "bytes": 9803
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/modelo-termo-auditoria.md",
+      "sha256": "940c39443a21380d6db7c1aac62a5287fa19693fc54dd1152c67f14027a407e9",
+      "bytes": 1598
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/log-agente.jsonl",
+      "sha256": "dbeae2dc8f69ab0861824aea6916317191373c628b3c78d177ffb34133314c38",
+      "bytes": 339
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/manifesto-sha256.json",
+      "sha256": "eb00809cca5220b0c30753e560934e243fea5babe1c1736859182faa51dc8dc3",
+      "bytes": 263
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/manifesto-sha256.txt",
+      "sha256": "1546f7e498528d01b62f6b97d1fc4d25ee2f7752ada7293606d7831b24eaa267",
+      "bytes": 93
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/originais/bo-sintetico.txt",
+      "sha256": "a4aa057809051299aae408fe074a652fcbdac92a96c84a0835e29dfde5394e47",
+      "bytes": 66
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/produtos/produto-gerado.json",
+      "sha256": "f8aafa51e988d7bc56738b16fc91427b2eb3c203aacdc6aa7bc5db7bcdbe1527",
+      "bytes": 86
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/produtos/relatorio-sintetico.md",
+      "sha256": "4707641bcdc9d773c961bcc08611f0e9b576db99c65f09e1e81d294693d385b7",
+      "bytes": 74
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-21/pasta-caso-auditoria/trabalho/bo-sintetico.txt",
+      "sha256": "4f8334accbce35e1fe88b0b19b319c4e5efa85f58bec928d1917620ab7908939",
+      "bytes": 52
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-22/avaliar.py",
+      "sha256": "d622a2b4028eec4a54ea11a15aff8abc6234f5467ddd43c0e15390f8d6fabe58",
+      "bytes": 14564
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+      "sha256": "379462b3f1e8f856528fc513781ba84115020486be1594e6138baf8c1a27b893",
+      "bytes": 162
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-22/exemplos/saida-boa.json",
+      "sha256": "e4a69cf7911ef3f205da1b2bf0e5492f23d828f422aca2e3586817aa2a32a34c",
+      "bytes": 748
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-22/exemplos/saida-invencao.json",
+      "sha256": "fea022ee593e02926e8268522aafcb289688268e2a0bae68dd396ad023d6db18",
+      "bytes": 997
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-22/exemplos/saida-omissao.json",
+      "sha256": "8e91daf476c8153ff1a97c4b58a012aac0ab6bdbfb850816211f9e684ea8d276",
+      "bytes": 520
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/01-coordenador.md",
+      "sha256": "20f93082ded144882580bb313233aa5a1b7180a0a9c9cc1d0072695e1ffae45d",
+      "bytes": 2633
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/02-osint.md",
+      "sha256": "5dd0690cd2cd45759dc519d6f14f823331dce3ae58296f9adc527185b2d897a0",
+      "bytes": 2785
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/03-documental.md",
+      "sha256": "982baf4092b293320a32cb7dc59dd06f0c2164a14af82e7f00d86617f1803cfa",
+      "bytes": 2818
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/04-financeiro.md",
+      "sha256": "d9f95b3d66488a10019d6cdf973ca5eef0f78f0a01de0b600b853f18c35a1212",
+      "bytes": 3056
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/05-analista.md",
+      "sha256": "b55fea5125d070fe3e00f66d65e6697b7743c5fa65d3bb419aadd1615a4fabdb",
+      "bytes": 2971
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/06-defensor.md",
+      "sha256": "d9269257e97ff7e8ec66a086548e13f621dc6e971d593f753bc15bb73408c51e",
+      "bytes": 2404
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/07-redator.md",
+      "sha256": "e92b9cbbdc4caebb7e514b26a705f6eb74c8816b4c2dc11bd84dcde3f01deba4",
+      "bytes": 2999
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/08-auditor.md",
+      "sha256": "77416c37d911a1d1331558b856e1f46b10bb4ab1717bffb46ea45d0c7eef0116",
+      "bytes": 2719
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-23/agentes/README.md",
+      "sha256": "4b76f1782d31def4416526d2efa4323f4c03c251d3a44519853ea7028c62a52e",
+      "bytes": 4263
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-24/modelo-plano-90-dias.md",
+      "sha256": "9d90ec81f49b5e98009685d83d2360e98592ebcfbac3523755d49c29ce205997",
+      "bytes": 2608
+    },
+    {
+      "caminho": "laboratorios/caso-ancora/labs/cap-24/tarefas-da-unidade.md",
+      "sha256": "75030f74559165e011f3d1b6ce1d55ee97788f1ff139bafb78506eb5513606da",
+      "bytes": 2272
+    },
+    {
+      "caminho": "modelos-de-caso/AGENTS.md",
+      "sha256": "e302b32e1b5724c2ae6d9eecdfb2f5d1d9475db778452368ccef3fa68a2653f7",
+      "bytes": 539
+    },
+    {
+      "caminho": "modelos-de-caso/CLAUDE.md",
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "bytes": 11
+    },
+    {
+      "caminho": "modelos-de-caso/README.md",
+      "sha256": "b04021a8e26e36ade6a73a45a81aa6707965b19f858ce2c4919d6ef6611382da",
+      "bytes": 1437
+    },
+    {
+      "caminho": "modelos-de-caso/manifesto-sha256.json",
+      "sha256": "871ca117d3a217052ee0387aebf4f59a79dd9daaa705ee2d35bc88046c64a356",
+      "bytes": 444
+    },
+    {
+      "caminho": "modelos-de-caso/originais/boletim-ocorrencia.md",
+      "sha256": "3ac0070032bdaf8a729034430a0cc06f6ea72212c58600727e77574177de9b62",
+      "bytes": 3190
+    },
+    {
+      "caminho": "modelos-de-caso/originais/extrato-bancario-vitima.csv",
+      "sha256": "ba9c1504f982e83bfa73d0a6721412e39651c981d13ce0491e556a10a18a7392",
+      "bytes": 330
+    },
+    {
+      "caminho": "modelos-de-caso/trabalho/boletim-ocorrencia.md",
+      "sha256": "3ac0070032bdaf8a729034430a0cc06f6ea72212c58600727e77574177de9b62",
+      "bytes": 3190
+    },
+    {
+      "caminho": "modelos-de-caso/trabalho/extrato-bancario-vitima.csv",
+      "sha256": "ba9c1504f982e83bfa73d0a6721412e39651c981d13ce0491e556a10a18a7392",
+      "bytes": 330
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/.claude-plugin/plugin.json",
+      "sha256": "07323aa71415ac243458487dc94062595ac611ca5aaeda5d1c477b7553ece1c9",
+      "bytes": 268
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/.codex-plugin/plugin.json",
+      "sha256": "634e7eb15e18d2b0b6f01284412fef8cc400f0fccd31844fa5e77823326ac155",
+      "bytes": 293
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/README.md",
+      "sha256": "cd7a8ae06c975692a54153fd24a5d828baca30555327b3a98afeba36c2878151",
+      "bytes": 4762
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/plugin.json",
+      "sha256": "1718b8ca74362e539d800ad5d9052930b6b5600c12663845872c98396be13138",
+      "bytes": 343
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/references/regras.md",
+      "sha256": "7a98404fab7194c0290398a83f410578e9f97f21261194c0f0fa2a2c68c69154",
+      "bytes": 1375
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/analisar-documentos/SKILL.md",
+      "sha256": "5f47c0bbb11c278723947296b4dfdaf881c867c55354adb85caaea7d62038b7a",
+      "bytes": 659
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/arquivar-exercicio/SKILL.md",
+      "sha256": "18b839ca984bf0108890f2c12f59ba9cff53ec936e056486e298f29d4e4deb86",
+      "bytes": 644
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/coletar-insumos-locais/SKILL.md",
+      "sha256": "f12c87ddc0ef72adcb9b5058a3a515705065198fed93d575c1dd6feb97959736",
+      "bytes": 641
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/planejar-missao/SKILL.md",
+      "sha256": "6fe9f027ff589417364124bf52b5b5d9b5dbcbeb850cd221b6270187b5f8df9b",
+      "bytes": 636
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/produzir-nota/SKILL.md",
+      "sha256": "de6dffc7260dc3092e075f64d2d654d98609855e94b4913964b931af542b433e",
+      "bytes": 679
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/receber-documentos/SKILL.md",
+      "sha256": "d8af7ec7b7aa77c5f0daa761c25967b7e34abc142cf635f334b0600318efaeea",
+      "bytes": 609
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/tratar-dados-sinteticos/SKILL.md",
+      "sha256": "56e1ede0e352f493b633895998bcdb2d0835dcc146efd003ccd922641f56bca4",
+      "bytes": 629
+    },
+    {
+      "caminho": "plugin/investigacao-criminal-agentica/skills/validar-achados/SKILL.md",
+      "sha256": "2202945a5429b528c65443e21b98cf1729eacb7f8a37db76a48ea429aeb40dc3",
+      "bytes": 670
+    },
+    {
+      "caminho": "prompts/README.md",
+      "sha256": "6f50081028232864069df43c57c8d4beb12c6ccc591754604ca86067790a3a46",
+      "bytes": 429
+    },
+    {
+      "caminho": "prompts/ptcfree-cronologia.md",
+      "sha256": "5ed4f891d3fcc30e36bab893f3fc054c1947ce3b7de2f271c499f161e3cb7592",
+      "bytes": 766
+    },
+    {
+      "caminho": "prompts/ptcfree-osint.md",
+      "sha256": "6e5deded32dc7d8a29d1d16020f90b37f4340db36c0573697a010db64218e111",
+      "bytes": 1159
+    },
+    {
+      "caminho": "prompts/ptcfree-relatorio.md",
+      "sha256": "9d1cd97cee240861c79e2f7069a6a55e4d9770e45300039a78aefb69cd2938a6",
+      "bytes": 1063
+    },
+    {
+      "caminho": "scripts/gerar_manifesto_caso.py",
+      "sha256": "f8d44d49ab3d973dd1fb41a1d08094e179445f6c2b6158ab64946c1d5e7a523d",
+      "bytes": 5763
+    },
+    {
+      "caminho": "templates/README.md",
+      "sha256": "068fb3ca8e0928b5b236d6e2ee5e8a37f8e7c6014a05298c1e8bb4b89c30bc1a",
+      "bytes": 128
+    },
+    {
+      "caminho": "templates/matriz-evidencias.csv",
+      "sha256": "75b3d37149a535539ce7bf0f53ebc6e253f34264d4d4f5ee4e39a16c19d29ce6",
+      "bytes": 201
+    },
+    {
+      "caminho": "templates/oficio.md",
+      "sha256": "c7577442664d9094a6183d982e7fc4b6422cb2b5bb8eb46f398a5a4fc9e05b42",
+      "bytes": 1205
+    },
+    {
+      "caminho": "templates/relatorio-investigativo.md",
+      "sha256": "155c3571a879f72b7664128e1c994c3c2ad18514feba59cd4de4809dae0eacac",
+      "bytes": 1606
+    },
+    {
+      "caminho": "templates/selo-transparencia-ia.md",
+      "sha256": "0599660476403a6d737876fe41c4ce0b0c72ce17d887388c1fe1b1fab676a591",
+      "bytes": 951
+    },
+    {
+      "caminho": "workflows/README.md",
+      "sha256": "b821e94ca040b8fe4f526d82ba2a1034fb3cd686a8cd31c414b2154ee073bfd4",
+      "bytes": 393
+    },
+    {
+      "caminho": "workflows/triagem.py",
+      "sha256": "81074a5f5f077318c624f01936d4d38050c87ea109b8a677ffa5b1945b8972c5",
+      "bytes": 3944
+    }
+  ]
+}

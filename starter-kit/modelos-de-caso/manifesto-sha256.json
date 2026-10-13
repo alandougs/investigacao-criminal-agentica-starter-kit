@@ -1,0 +1,17 @@
+{
+  "formato": "manifesto-sha256-caso",
+  "versao": 1,
+  "escopo": "originais",
+  "arquivos": [
+    {
+      "caminho": "originais/boletim-ocorrencia.md",
+      "sha256": "3ac0070032bdaf8a729034430a0cc06f6ea72212c58600727e77574177de9b62",
+      "bytes": 3190
+    },
+    {
+      "caminho": "originais/extrato-bancario-vitima.csv",
+      "sha256": "ba9c1504f982e83bfa73d0a6721412e39651c981d13ce0491e556a10a18a7392",
+      "bytes": 330
+    }
+  ]
+}

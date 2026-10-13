@@ -1,0 +1,4 @@
+id,descricao,classificacao,fonte,localizacao,data_hora,entidades_relacionadas,confianca,corroboracao,pendencia,revisado_por
+A001,,fato,,,,,alta,,,
+A002,,relato,,,,,media,,,
+H001,,hipotese,,,,,baixa,,,

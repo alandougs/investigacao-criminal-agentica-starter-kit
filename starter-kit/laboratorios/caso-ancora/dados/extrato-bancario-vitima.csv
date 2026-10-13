@@ -1,0 +1,3 @@
+data,hora,tipo_lancamento,descricao,valor,conta_origem,conta_destino,banco_destino
+2026-08-05,17:05:12,PIX ENVIADO,PIX - Reserva de veiculo,-3200.00,CONTA-VITIMA-0001,CONTA-PASSAGEM-0001,Banco Trilha S.A.
+2026-08-06,10:47:33,PIX ENVIADO,PIX - Taxa de transferencia,-1800.00,CONTA-VITIMA-0001,CONTA-PASSAGEM-0002,Banco Trilha S.A.

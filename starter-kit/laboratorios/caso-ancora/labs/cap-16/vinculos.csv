@@ -1,0 +1,23 @@
+id,origem,destino,tipo,fonte_arquivo,fonte_linha,data,grau_sugerido
+V01,PF-RICARDO,T-0042,exibe contato,perfil-osint-ricardo-autos-premium.md,"seção A, tabela de campos",2026-08-07,provável
+V02,T-0042,T-0001,eventos de dados nos horários das mensagens,extrato-telefonico-erb.csv,linhas 4-6,2026-08-04 a 2026-08-06,provável
+V03,T-0042B,P-VALDIR,número de quem o procurou como comprador,termos-declaracao.md,"Valdir, § 3",2026-08-03,provável
+V04,T-0042,T-0002,eventos de dados nos horários relatados por Valdir,extrato-telefonico-erb.csv,linhas 3 e 7,2026-08-03 e 2026-08-06,confirmado
+V05,T-0042,D-0042,usada no aparelho,resposta-conecta-movel.csv,linhas 3-9,2026-07-30 a 2026-08-07,confirmado
+V06,T-0077,D-0042,usada no mesmo aparelho até a véspera,resposta-conecta-movel.csv,linha 2,2026-07-29,confirmado
+V07,T-0077,P-EVERTON,titular cadastral,resposta-conecta-movel.csv,linha 2,2026-07-29,confirmado
+V08,P-EVERTON,D-0042,usava o aparelho,,,,provável
+V09,AN-0803,AN-0801,reaproveita as seis fotos,perfil-osint-ricardo-autos-premium.md,"seção B, linha Comparação visual",2026-08-12,confirmado
+V10,PF-RICARDO,AN-0803,publicou,perfil-osint-ricardo-autos-premium.md,"seção A, tabela Os três anúncios",2026-08-03,confirmado
+V11,P-VALDIR,AN-0801,publicou,termos-declaracao.md,"Valdir, § 2",2026-08-01,confirmado
+V12,C-VIT,C-0001,"PIX R$ 3.200,00",extrato-bancario-contas-passagem.csv,linha 2,2026-08-05 17:05:12,confirmado
+V13,C-0001,C-0002,"PIX R$ 3.000,00",extrato-bancario-contas-passagem.csv,linha 3,2026-08-05 17:11:40,confirmado
+V14,C-VIT,C-0002,"PIX R$ 1.800,00",extrato-bancario-contas-passagem.csv,linha 4,2026-08-06 10:47:33,confirmado
+V15,C-0002,C-0003,"PIX R$ 4.500,00",resposta-banco-horizonte-digital.csv,linha 2,2026-08-06 11:00:02,confirmado
+V16,C-0003,L-SLO,"saque em espécie R$ 4.500,00",resposta-banco-horizonte-digital.csv,linha 3,2026-08-06 15:40:00,confirmado
+V17,C-0001,P-CLAUDIO,titular cadastral,resposta-banco-trilha.csv,linhas 2-3,2026-07-28,confirmado
+V18,C-0002,P-TAINA,titular cadastral,resposta-banco-trilha.csv,linhas 4-6,2026-07-29,confirmado
+V19,C-0003,P-ROSANA,titular cadastral,resposta-banco-horizonte-digital.csv,linhas 2-3,2026-07-27,confirmado
+V20,P-MARTA,L-IPES,visitou o carro,termos-declaracao.md,"Marta, § 3; Valdir, § 4",2026-08-05,confirmado
+V21,P-VALDIR,C-0003,recebeu valores,,,,possível
+V22,L-SLO,P-VALDIR,saque no município vizinho ao de Valdir e no mesmo dia do golpe,resposta-banco-horizonte-digital.csv,linha 3,2026-08-06,possível

@@ -1,0 +1,9 @@
+{
+  "name": "icg-didatico-local",
+  "plugins": [{
+    "name": "investigacao-criminal-agentica",
+    "source": {"source": "local", "path": "./plugin/investigacao-criminal-agentica"},
+    "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+    "category": "Productivity"
+  }]
+}

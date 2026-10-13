@@ -1,0 +1,22 @@
+id,tipo,rotulo,fonte
+P-MARTA,pessoa,Marta Helena Bezerra (vítima),boletim-ocorrencia.md
+P-VALDIR,pessoa,Valdir Antunes Prado (testemunha; dono do veículo),termos-declaracao.md
+P-EVERTON,pessoa,Everton Luís Caldas (titular cadastral da linha 0077),resposta-conecta-movel.csv
+P-CLAUDIO,pessoa,Cláudio Reis Moura (titular cadastral da conta 1),resposta-banco-trilha.csv
+P-TAINA,pessoa,Tainá Souza Brito (titular cadastral da conta 2),resposta-banco-trilha.csv
+P-ROSANA,pessoa,Rosana Pires Teixeira (titular cadastral da conta 3),resposta-banco-horizonte-digital.csv
+PF-RICARDO,perfil,@ricardo.autos.premium (ElosNet),perfil-osint-ricardo-autos-premium.md
+AN-0803,anuncio,Anúncio do Civic por R$ 41.500 (perfil; 03/08),perfil-osint-ricardo-autos-premium.md
+AN-0801,anuncio,Anúncio do Civic por R$ 48.000 (Valdir; 01/08),perfil-osint-ricardo-autos-premium.md
+T-0001,telefone,+55-14-90000-0001,extrato-telefonico-erb.csv
+T-0002,telefone,+55-14-90000-0002,extrato-telefonico-erb.csv
+T-0042,telefone,+55-14-90000-0042,extrato-telefonico-erb.csv
+T-0042B,telefone,(14) 90000-0042,termos-declaracao.md
+T-0077,telefone,+55-14-90000-0077,resposta-conecta-movel.csv
+D-0042,dispositivo,IMEI-SINTETICO-0042,resposta-conecta-movel.csv
+C-VIT,conta,CONTA-VITIMA-0001 (Banco Trilha),extrato-bancario-vitima.csv
+C-0001,conta,CONTA-PASSAGEM-0001 (Banco Trilha),resposta-banco-trilha.csv
+C-0002,conta,CONTA-PASSAGEM-0002 (Banco Trilha),resposta-banco-trilha.csv
+C-0003,conta,CONTA-PASSAGEM-0003 (Banco Horizonte Digital),resposta-banco-horizonte-digital.csv
+L-SLO,local,Terminal HDL-SLO-03 — Santa Luzia do Oeste,resposta-banco-horizonte-digital.csv
+L-IPES,local,"Rua dos Ipês, 88, Vila Esperança",termos-declaracao.md

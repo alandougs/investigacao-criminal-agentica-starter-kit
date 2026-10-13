@@ -1,0 +1,84 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "comprovante-reserva-sintetico.png",
+      "sha256": "be6bcadf331d84f72eb7d596808904522d35fe6963a1a82c37619e2c5ff35d32"
+    },
+    {
+      "arquivo": "midia-original-sintetica.png",
+      "sha256": "be6bcadf331d84f72eb7d596808904522d35fe6963a1a82c37619e2c5ff35d32"
+    },
+    {
+      "arquivo": "midia-manipulada-sintetica.png",
+      "sha256": "0512036f903c6042e9638c153a6d88c406d8e03666fd22a86d1a0eafc4646c25"
+    },
+    {
+      "arquivo": "audio-reserva-sintetico.wav",
+      "sha256": "bbf3575b033a6381cc2310aee3d179aea7ced396700ff274ce7cd4a732eb2bef"
+    },
+    {
+      "arquivo": "roteiro-audio-reserva-sintetico.txt",
+      "sha256": "2dffa1ee227cda63891a9f027db6151880149c19ba1d9565f3a24a72d8374e62"
+    }
+  ],
+  "audio": {
+    "arquivo": "audio-reserva-sintetico.wav",
+    "formato": {
+      "amostragem_hz": 22050,
+      "bits_por_amostra": 16,
+      "canais": 1,
+      "duracao_segundos": 19.559456,
+      "quadros": 431286
+    },
+    "motor": {
+      "idioma": "pt-BR",
+      "motor": "espeak-ng",
+      "palavras_por_minuto": 150,
+      "versao": "eSpeak NG text-to-speech: 1.51  Data at: /usr/lib/x86_64-linux-gnu/espeak-ng-data",
+      "voz": "pt-br"
+    },
+    "segmentos": [
+      {
+        "fim_segundos": 4.684399,
+        "indice": 1,
+        "inicio_segundos": 0.0,
+        "locutor": "VOZ-GENERICA-001",
+        "texto": "Olá, aqui é o Ricardo, do perfil Ricardo Autos Premium."
+      },
+      {
+        "fim_segundos": 9.661134,
+        "indice": 2,
+        "inicio_segundos": 5.034422,
+        "locutor": "VOZ-GENERICA-001",
+        "texto": "Pode ficar tranquila sobre a reserva do carro que você viu hoje."
+      },
+      {
+        "fim_segundos": 13.302222,
+        "indice": 3,
+        "inicio_segundos": 10.011156,
+        "locutor": "VOZ-GENERICA-001",
+        "texto": "Eu cuido da negociação com o proprietário."
+      },
+      {
+        "fim_segundos": 19.559456,
+        "indice": 4,
+        "inicio_segundos": 13.652245,
+        "locutor": "VOZ-GENERICA-001",
+        "texto": "Assim que entrar o sinal de três mil e duzentos reais, eu confirmo a reserva."
+      }
+    ],
+    "status": "gerado"
+  },
+  "dado_real": false,
+  "envio_audio_local": "2026-08-05 16:02",
+  "envio_imagem_local": "2026-08-05 16:20",
+  "fonte": {
+    "nome": "Noto Sans",
+    "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+  },
+  "fuso": "UTC-3",
+  "gerador": "1.0.0",
+  "metodo": "Desenho fixo e roteiro fixo, sem aleatoriedade.",
+  "pillow": "12.3.0",
+  "semente": null
+}

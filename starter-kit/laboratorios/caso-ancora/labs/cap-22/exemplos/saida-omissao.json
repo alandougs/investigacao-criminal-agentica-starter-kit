@@ -1,0 +1,23 @@
+{
+  "execucao": "com-omissao",
+  "eventos": [
+    {
+      "id": "E1",
+      "data": "2026-08-01",
+      "evento": "Anúncio original publicado",
+      "fonte": {
+        "arquivo": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+        "linha": 3
+      }
+    },
+    {
+      "id": "E2",
+      "data": "2026-08-03",
+      "evento": "Anúncio clonado publicado",
+      "fonte": {
+        "arquivo": "laboratorios/caso-ancora/labs/cap-22/exemplos/fonte-exemplo.md",
+        "linha": 5
+      }
+    }
+  ]
+}

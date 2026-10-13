@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "investigacao-criminal-agentica",
+  "version": "0.1.0",
+  "description": "Procedimentos didáticos para organizar e conferir documentos sintéticos do caso-âncora, com revisão humana.",
+  "author": {"name": "Projeto Investigação Criminal Agêntica"}
+}
