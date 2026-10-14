@@ -1,6 +1,8 @@
 # Instruções do Starter Kit — Investigação Criminal Agêntica
 
-1. Leia `START-HERE.md` e a instrução da missão antes de agir.
+1. Leia `START-HERE.md` e a instrução da missão antes de agir. Este kit é
+   material educativo de uso pessoal do comprador do livro; não é ferramenta
+   institucional, roteiro de diligência oficial nem licença para organização.
 2. Este pacote usa somente dados fictícios e sintéticos: modo A.
    Nunca acrescente dados reais, credenciais ou chaves de API.
 3. Não invente informações. Separe relato, documento, inferência e hipótese;

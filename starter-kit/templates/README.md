@@ -1,3 +1,3 @@
 # Templates do Starter Kit
 
-Modelos didáticos e agnósticos de ferramenta. Revise e adapte antes de qualquer uso profissional.
+Modelos estritamente didáticos, com exercícios sintéticos e agnósticos de ferramenta. Destinados ao estudo individual do comprador do livro, sem licença de uso institucional, distribuição a terceiros ou caráter de formulários e procedimentos oficiais.

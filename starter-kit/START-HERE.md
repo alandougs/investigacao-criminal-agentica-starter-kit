@@ -4,9 +4,15 @@ Este material é inteiramente fictício e sintético. Use apenas estes dados nos
 exercícios. Você não precisa programar. Um hash é uma impressão digital calculada
 do arquivo: se os bytes mudarem, o valor calculado também muda.
 
+## Direitos de uso
+
+Este kit acompanha um **livro comercial, educativo e independente de qualquer instituição**. Seu uso autorizado é **pessoal e exclusivo do leitor que adquiriu o livro**, para realizar exercícios didáticos com dados fictícios e sintéticos. A compra não autoriza uso institucional, biblioteca compartilhada, treinamento coletivo, cessão a colegas, revenda ou redistribuição. Conforme declaração editorial do autor, os exemplos não contêm dados sigilosos nem protocolos operacionais internos privativos de órgãos investigativos.
+
+O repositório permanece público, mas **a visibilidade pública não concede licença de uso a não compradores**. Consulte o [LICENSE.md do repositório](../LICENSE.md).
+
 ## Abrir o material
 
-Repositório público: <https://github.com/alandougs/investigacao-criminal-agentica-starter-kit>. No GitHub, escolha **Code → Download ZIP**, extraia tudo e abra a pasta `starter-kit/`. Se usar `git clone`, abra essa mesma subpasta: o manifesto não inclui o diretório Git que fica acima dela.
+**Se adquiriu o livro**, acesse os materiais complementares no repositório público: <https://github.com/alandougs/investigacao-criminal-agentica-starter-kit>. No GitHub, escolha **Code → Download ZIP**, extraia tudo e abra a pasta `starter-kit/`. Se usar `git clone`, abra essa mesma subpasta: o manifesto não inclui o diretório Git que fica acima dela.
 
 1. Extraia o ZIP inteiro para uma pasta nova. Não trabalhe dentro do ZIP.
 2. No VS Code, escolha **Arquivo → Abrir Pasta** e selecione a pasta que contém

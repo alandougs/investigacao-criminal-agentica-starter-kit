@@ -1,46 +1,50 @@
-# Direitos autorais e licença de uso do Starter Kit
+# Direitos autorais e licença pessoal do Starter Kit — Investigação Criminal Agêntica
 
-© 2026 Alan Douglas Silva. Todos os direitos reservados, ressalvadas as permissões expressas abaixo e as limitações previstas em lei.
+© 2026 Alan Douglas Silva. Todos os direitos reservados, observadas as limitações e exceções legais e as licenças próprias de componentes de terceiros.
 
-## 1. Livro e atividades comerciais do titular
+## 1. Obra comercial, educativa e independente
 
-Este repositório contém apenas os materiais complementares do livro **Investigação Criminal Agêntica**. O livro é uma **obra autoral de natureza comercial**, vendida pelo próprio autor ou por parceiros expressamente autorizados. O autor pode igualmente ministrar aulas, cursos e oferecer materiais didáticos remunerados.
+O Starter Kit integra o material de apoio do livro **Investigação Criminal Agêntica**, obra comercial do autor Alan Douglas Silva e de caráter exclusivamente educativo. O próprio autor e parceiros expressamente autorizados podem vender o livro, oferecer cursos próprios e licenciar os materiais de sua titularidade.
 
-O fato de o kit ser público e de existir uma limitação à exploração comercial **por terceiros** não impede a comercialização do livro, de cursos ou dos materiais pelo titular dos direitos autorais e por seus licenciados.
+A obra não é vinculada, patrocinada, aprovada nem produzida em nome da Polícia Civil do Estado de São Paulo ou de qualquer outra instituição, pública ou privada. A identificação profissional do autor é biográfica.
 
-## 2. Permissões concedidas aos usuários do kit
+Conforme declaração editorial do autor, o kit utiliza dados fictícios e sintéticos; não contém informações sigilosas, autos reais ou procedimentos operacionais internos privativos de órgãos de investigação criminal. Os exemplos não substituem normas, competências legais, protocolos de serviço nem autorizações oficiais.
 
-Concede-se uma autorização gratuita, não exclusiva e não transferível para:
+## 2. Quem recebe licença
 
-- baixar e manter cópias locais dos arquivos do Starter Kit;
-- estudar, executar e testar os laboratórios com dados fictícios e sintéticos;
-- modificar e adaptar localmente prompts, templates, códigos e fluxos para aprendizagem e uso profissional ou institucional **interno**, inclusive em órgãos públicos e organizações privadas;
-- utilizar os resultados de exercícios e modelos adaptados na produção de documentos profissionais próprios, desde que respeitados direitos de terceiros, sigilo, normas aplicáveis e as restrições de distribuição dos materiais originais;
-- empregar os arquivos em capacitações internas **não comercializadas como produto educacional a terceiros**.
+**Somente o adquirente individual do livro**, nas condições da oferta, recebe autorização pessoal, limitada, não exclusiva e intransferível para utilizar os materiais complementares no próprio estudo.
 
-Essas permissões não implicam cessão da titularidade da obra nem licença geral para redistribuição dos arquivos.
+A autorização permite ao comprador:
+- consultar e manter cópia para aprendizado individual;
+- executar os laboratórios com os dados sintéticos fornecidos;
+- experimentar e adaptar, para fins exclusivamente educativos individuais, os prompts, modelos, scripts e fluxos que sejam de titularidade do autor, respeitadas licenças próprias de terceiros;
+- registrar notas, respostas e resultados dos próprios exercícios, sem publicar ou distribuir os arquivos protegidos.
 
-## 3. Atividades que exigem autorização expressa do titular
+O aprendizado pessoal pode contribuir para a formação do leitor, inclusive em sua carreira; isso **não transfere licença de arquivos à instituição** em que ele trabalhe e não autoriza diligências ou atos oficiais.
 
-Sem autorização prévia e expressa de Alan Douglas Silva, terceiros não podem:
+## 3. Não há licença institucional
 
-- revender ou cobrar pelo acesso ao Starter Kit ou a cópias substancialmente equivalentes;
-- redistribuir comercialmente arquivos originais ou versões adaptadas;
-- sublicenciar, publicar uma coleção equivalente ou apresentá-la como criação própria;
-- incorporar ou disponibilizar o kit, seus arquivos ou adaptações substanciais como material de cursos, treinamentos, livros, plataformas ou outros produtos **pagos oferecidos a terceiros**.
+Esta licença **não concede autorização de uso institucional, corporativo ou coletivo**. A aquisição do livro por um profissional não licencia a sua unidade, empregador, corporação, repartição, empresa, associação, curso ou equipe, mesmo quando o exemplar foi pago com recursos de uma dessas entidades.
 
-Respeitam-se as limitações legais aos direitos autorais. A mera existência deste repositório público não significa que o conteúdo esteja em domínio público ou sob licença de software aberto irrestrita.
+Sem autorização prévia e expressa do autor e ressalvadas as permissões legais, é vedado:
+- compartilhar acesso, cópias ou arquivos com colegas ou terceiros;
+- inserir o kit em acervo, sistemas, armazenamento compartilhado ou base de conhecimento institucional;
+- usar o kit como conteúdo de treinamento, curso, capacitação coletiva ou material oficial de instituições;
+- revender, sublicenciar, publicar ou redistribuir originais ou adaptações substanciais;
+- incorporar os arquivos a produtos, publicações e plataformas de terceiros.
 
-## 4. Obra independente e conteúdo de terceiros
+A compra não transfere direitos patrimoniais da obra.
 
-A atividade autoral e docente é particular. A menção à condição profissional do autor é informação biográfica e **não representa endosso, oferta ou publicação oficial da Polícia Civil do Estado de São Paulo** ou de outra instituição.
+## 4. Repositório público e controle de acesso
 
-Pessoas, casos e dados do caso-âncora são fictícios e sintéticos. Não se deve inserir dados de investigações reais ou sigilosas nestes repositórios públicos.
+Este repositório é **publicamente acessível no GitHub**, mas visibilidade, indexação, visualização ou disponibilidade para download **não constituem autorização de uso por não compradores**, doação, cessão de direitos ou licença aberta.
 
-Marcas, fontes, bibliotecas, softwares e componentes de terceiros mantêm suas licenças e direitos próprios. Quando houver licença específica de terceiro, ela prevalece sobre este aviso para o respectivo componente.
+A restrição jurídica não impede tecnicamente o download público. Para garantir que somente compradores obtenham os arquivos, será necessário utilizar uma área de membros autenticada ou outra solução de controle de distribuição.
 
-## 5. Base legal
+## 5. Direitos de terceiros e disposições legais
 
-A Lei nº 9.610/1998, especialmente seus arts. 28, 29, 37 e 46, rege a proteção e as limitações legais dos direitos autorais no Brasil.
+Marcas, softwares, fontes, componentes e outros materiais pertencentes a terceiros seguem suas próprias licenças. Este texto não restringe direitos previamente concedidos por licenças de terceiros e não elimina as limitações legais ao direito autoral.
 
-Para autorizar distribuição comercial, publicação ou uso em formação paga que inclua os arquivos protegidos, contate o titular dos direitos.
+Aplicam-se as disposições da Lei nº 9.610/1998, especialmente arts. 28, 29, 37 e 46.
+
+Qualquer modalidade de licenciamento fora do estudo individual depende de autorização expressa do titular dos direitos sobre os materiais correspondentes.

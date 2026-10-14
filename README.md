@@ -1,10 +1,10 @@
 # Investigação Criminal Agêntica — materiais do leitor
 
-Starter Kit do livro de **Alan Douglas Silva**. Um conjunto enxuto de arquivos para praticar os exercícios com dados fictícios e sintéticos. Obra pessoal do autor, sem representação da PCSP ou de outra instituição.
+Starter Kit do livro comercial **Investigação Criminal Agêntica**, de **Alan Douglas Silva**. Materiais destinados exclusivamente ao estudo educativo individual de quem comprou o livro, com dados fictícios e sintéticos. Obra particular, sem vinculação, aprovação ou representação da PCSP ou de qualquer outra instituição. Segundo declaração editorial do autor, não divulga informações sigilosas nem protocolos operacionais internos privativos de órgãos de investigação.
 
 ## Comece aqui
 
-1. Clique em **Code → Download ZIP** e extraia o arquivo inteiro, ou clone este repositório.
+1. **Se você adquiriu o livro**, clique em **Code → Download ZIP** e extraia o arquivo inteiro, ou clone este repositório.
 2. Abra a pasta `starter-kit/` no VS Code.
 3. Leia [START-HERE.md](starter-kit/START-HERE.md) e confira o pacote antes de criar arquivos: `python scripts/gerar_manifesto_caso.py verificar --raiz .` (no terminal de `starter-kit/`, Python3.12+).
 4. Siga a ordem dos capítulos do livro e copie somente os insumos da missão para sua pasta de prática.
@@ -25,10 +25,12 @@ O manifesto confere o kit; o diretório Git está na pasta acima. Novas anotaç�
 
 Somente os materiais de apoio indicados no livro. O manuscrito, PDF/HTML do livro, gabaritos e pareceres internos não fazem parte deste repositório. Os pré-requisitos e critérios de autoconferência de cada exercício estão no capítulo correspondente.
 
-Não envie dados de casos reais, credenciais ou arquivos sigilosos a este repositório. Instruções em Markdown orientam o agente; não substituem permissões, autorização institucional nem conferência do resultado. O ensaio do kit em Claude/Codex por contexto explícito tem seus limites descritos no guia; não garante descoberta automática ou compatibilidade futura.
+Não envie dados de casos reais, credenciais ou arquivos sigilosos a este repositório. As instruções são exemplos de estudo: não constituem manual de serviço, protocolo operacional privativo, autorização para diligências oficiais nem publicação institucional. O ensaio do kit em Claude/Codex por contexto explícito tem seus limites descritos no guia; não garante descoberta automática ou compatibilidade futura.
 
 ## Uso
 
-**O livro Investigação Criminal Agêntica é uma obra comercial**, vendida pelo autor, Alan Douglas Silva, e por parceiros expressamente autorizados. A disponibilização gratuita deste repositório não impede sua comercialização legítima nem a de cursos e materiais do titular.
+**O livro é uma obra comercial de caráter educativo**, oferecida pelo autor ou por parceiros expressamente autorizados.
 
-© 2026 Alan Douglas Silva. Todos os direitos reservados. O kit pode ser baixado, executado e adaptado para estudo e aplicação profissional/institucional **interna**. Terceiros não podem revender, redistribuir comercialmente ou incluir os arquivos em cursos e produtos pagos sem autorização prévia e expressa do autor. Leia os [termos completos de uso](LICENSE.md). O manuscrito e o PDF/HTML do livro permanecem protegidos e não integram este repositório.
+© 2026 Alan Douglas Silva. Todos os direitos reservados. **A licença dos arquivos deste kit é pessoal, intransferível e destinada ao leitor individual que adquiriu o livro**, para estudar, executar e adaptar exercícios sintéticos em âmbito educativo próprio. **Não existe licença de uso institucional**, mesmo para órgãos de investigação: não é permitido compartilhar o material com colegas, unidades, empregadores, bibliotecas, cursos ou plataformas, salvo autorização expressa do titular ou hipótese legal.
+
+**Atenção:** o repositório continua tecnicamente público e os arquivos podem ser visualizados ou baixados sem autenticação. Essa disponibilidade **não comprova compra nem concede licença a não compradores**. Para efetivamente restringir o download a clientes, será necessária uma distribuição pela área autenticada de membros. Leia os [termos completos](LICENSE.md). O manuscrito e o PDF/HTML do livro não estão neste repositório.
