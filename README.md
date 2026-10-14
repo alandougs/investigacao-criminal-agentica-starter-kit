@@ -29,4 +29,6 @@ Não envie dados de casos reais, credenciais ou arquivos sigilosos a este reposi
 
 ## Uso
 
-©2026 Alan Douglas Silva. Todos os direitos reservados. Material de laboratório para uso pessoal e institucional não comercial. Veja [direitos de uso](LICENSE.md). A disponibilidade pública não altera os direitos sobre o texto do livro.
+**O livro Investigação Criminal Agêntica é uma obra comercial**, vendida pelo autor, Alan Douglas Silva, e por parceiros expressamente autorizados. A disponibilização gratuita deste repositório não impede sua comercialização legítima nem a de cursos e materiais do titular.
+
+© 2026 Alan Douglas Silva. Todos os direitos reservados. O kit pode ser baixado, executado e adaptado para estudo e aplicação profissional/institucional **interna**. Terceiros não podem revender, redistribuir comercialmente ou incluir os arquivos em cursos e produtos pagos sem autorização prévia e expressa do autor. Leia os [termos completos de uso](LICENSE.md). O manuscrito e o PDF/HTML do livro permanecem protegidos e não integram este repositório.
